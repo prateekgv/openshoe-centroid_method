@@ -1,6 +1,8 @@
 # Openshoe - Centroid Method
 ```MATLAB``` implementation of dual foot-mounted inertial navigation system to reduce the systematic heading drift using centroid method (CM).
 
+<p align="center"><img src="https://github.com/prateekgv/openshoe-sphere_limit/blob/master/animation/cm_slm_uc_smaller_size.gif" width="600" height="450" /></p>
+
 #### Citations:
 
 > @INPROCEEDINGS{6984001,
